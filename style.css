@@ -1,12 +1,32 @@
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%
+}
+
 body {
-    font-family: Consolas, monospace, monaco;
-    line-height: 1.6;
-    margin: 20px;
-    color: #333;
+    font-family: system-ui, -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: normal;
+    font-style: normal;
+    color: #333333;
+    padding: 20px;
+    margin: 0;
+    margin-left: 400px;
+    margin-top: 72px;
 }
 
 h1 {
     color: #555;
+    padding-right: 200px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+}
+
+ul {
+    padding-left: 20px;
 }
 
 
